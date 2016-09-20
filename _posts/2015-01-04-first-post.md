@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-tags: [random, exciting-stuff]
+title: Stage0
+tags: [Data science]
 ---
 
-This is my first post, how exciting!
+Stage1: [crawl and extract to obtain two tables](https://sites.google.com/site/anhaidgroup/courses/cs-638-fall-2016/project/stage-1)
